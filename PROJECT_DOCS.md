@@ -1,4 +1,4 @@
-# Customer Ordering System (COS) - Project Documentation
+# Customer Ordering System (OrderLy) - Project Documentation
 
 A full-stack web application for managing customer orders, built with FastAPI (backend) and React/TypeScript (frontend).
 
