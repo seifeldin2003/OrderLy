@@ -193,8 +193,8 @@ npm run dev
 
 ### Testing
 ```bash
-cd backend
-pytest
+cd ~/projects/OrderLy/backend
+PYTHONPATH=. pytest --tb=short -v --cov=app --cov-report=term-missing 2>&1
 ```
 
 ## Key Components Explained
